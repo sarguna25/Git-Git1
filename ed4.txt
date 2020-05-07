@@ -1,1 +1,4 @@
 file in FirstBranch
+modified after master
+modified after checkout
+modified with commit
